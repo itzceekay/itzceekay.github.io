@@ -4,5 +4,8 @@
 - You can still go through my Git 
 **kiru@live.unc.edu**
 
+##[Resume](itzceekay.github.io/kiru_resume_.pdf)
+
+##[Linkedin](linkedin.com)
 
 ### Jekyll Themes
