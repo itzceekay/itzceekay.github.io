@@ -7,6 +7,6 @@
 
 ##[Resume](itzceekay.github.io/kiru_resume_.pdf)
 
-##[Linkedin](linkedin.com)
+##[Linkedin](https://www.linkedin.com/in/kirubanandc/)
 
 ### Jekyll Themes
