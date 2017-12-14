@@ -1,6 +1,9 @@
-# Kirbanand Chandrasekaran
+# Kirbanand Chandrasekaran 
+##Aspiring data engineer (?) 
 
-- Aspiring data engineer (?) 
+### [Resume](itzceekay.github.io/kiru_resume_.pdf)
+### [Linkedin](https://www.linkedin.com/in/kirubanandc/)
+
 
 ### **kiru@live.unc.edu**
 
@@ -24,6 +27,5 @@ Information science grad @ Univerity of North Carolina Chapel Hill . Currently l
    - Why? I tried and implemented this using AWS .
 - [NYC CRIME DATA ANALYSIS]  ()  
    - Why ? Used a large data set .
-## [Resume](itzceekay.github.io/kiru_resume_.pdf)
-## [Linkedin](https://www.linkedin.com/in/kirubanandc/)
+
 
