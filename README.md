@@ -1,12 +1,39 @@
-## Welcome to My page
+# Kirbanand Chandrasekaran
 
-- Finals week , Page still under construction 
-- You can still go through my Git 
+- Aspiring data engineer (?) 
 
-###**kiru@live.unc.edu**
+### **kiru@live.unc.edu**
 
-##[Resume](itzceekay.github.io/kiru_resume_.pdf)
 
-##[Linkedin](https://www.linkedin.com/in/kirubanandc/)
+- Currently reading " Ready player one " by Ernest Cline after "The Martian" and "1984" .
+- Favorite quote : 
 
-### Jekyll Themes
+### About me : 
+Information science grad @ Univerity of North Carolina Chapel Hill . Currently looking for summer internship opportunities as Data engineer , Sofware engineer . Worked for IBM as an Application developer for 40 months primarily in Agile and Devops environment.
+
+### Skills :
+
+- [x] Java
+- [x] Python
+- [x] Agile
+- [x] MySQL
+- [x] OpenShift ( Redhat cloud )
+- [x] Devops
+- [ ] Spark 
+- [ ] Hadoop
+- [ ] AWS , Google Cloud
+ 
+
+### Projects that I am proud of :
+
+- [HACKNC2017] (https://github.com/itzceekay/influenza_correlation)
+   - Why? I tried and implemented this using AWS .
+- [NYC CRIME DATA ANALYSIS]  ()  
+   - Why ? Used a large data set .
+
+
+
+## [Resume](itzceekay.github.io/kiru_resume_.pdf)
+
+## [Linkedin](https://www.linkedin.com/in/kirubanandc/)
+
