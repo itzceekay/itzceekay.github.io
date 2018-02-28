@@ -1,4 +1,4 @@
-# Kirbanand Chandrasekaran 
+# Kirubanand Chandrasekaran 
 ### Aspiring data engineer (?) 
 
 ### [Resume](itzceekay.github.io/kiru_resume_.pdf)
