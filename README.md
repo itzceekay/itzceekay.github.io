@@ -21,10 +21,10 @@ Information science grad @ Univerity of North Carolina Chapel Hill . Currently l
 - [ ] Hadoop
 - [ ] AWS , Google Cloud
 
-#### Projects that I am proud of :
+#### Projects:
 - [HACKNC2017](https://github.com/itzceekay/influenza_correlation)
-   - Why? I tried and implemented this using AWS .
+   - tried and implemented this using AWS .
 - [NYC CRIME DATA ANALYSIS]  (https://drive.google.com/file/d/1W_3kxJcKQYD02Erx5hKM4fuXF6QGABkL/view?usp=sharing)  
-   - Why ? Used a large data set .
+   - Used a large data set .
 
 
