@@ -9,7 +9,7 @@
 - Currently reading " Ready player one " by Ernest Cline after "The Martian" and "1984" .
 
 ### About me : 
-Information science grad @ Univerity of North Carolina Chapel Hill . Currently looking for summer internship opportunities as Data engineer , Sofware engineer . Worked for IBM as an Application developer for 40 months primarily in Agile and Devops environment.
+Information science grad @ Univerity of North Carolina Chapel Hill . Currently looking for summer internship opportunities , Sofware engineer . Worked for IBM as an Application developer for 40 months primarily in Agile and Devops environment.
 ### Skills :
 - [x] Java
 - [x] Python
