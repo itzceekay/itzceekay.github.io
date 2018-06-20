@@ -1,5 +1,5 @@
 # Kirubanand Chandrasekaran 
-### Aspiring data engineer (?) 
+### Devops-Intern
 
 ### [Resume](itzceekay.github.io/kiru_resume_.pdf)
 ### [Linkedin](https://www.linkedin.com/in/kirubanandc/)
@@ -9,9 +9,10 @@
 - Currently reading " Ready player one " by Ernest Cline after "The Martian" and "1984" .
 
 ### About me : 
-Information science grad @ Univerity of North Carolina Chapel Hill . Currently looking for summer internship opportunities , Sofware engineer . Worked for IBM as an Application developer for 40 months primarily in Agile and Devops environment.
+Information science grad @ Univerity of North Carolina Chapel Hill . Currently working as a devops intern at Peoplenet. Worked for IBM as an Application developer for 40 months primarily in Agile and Devops environment.
 ### Skills :
 - [x] Java
+- [x] Go Lang
 - [x] Python
 - [x] Agile
 - [x] MySQL
