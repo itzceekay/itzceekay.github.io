@@ -1,5 +1,5 @@
 # Kirubanand Chandrasekaran 
-### Devops-Intern
+### SE-Intern
 
 ### [Resume](itzceekay.github.io/kiru_resume_.pdf)
 ### [Linkedin](https://www.linkedin.com/in/kirubanandc/)
@@ -17,10 +17,8 @@ Information science grad @ Univerity of North Carolina Chapel Hill . Currently w
 - [x] Agile
 - [x] MySQL
 - [x] OpenShift ( Redhat cloud )
-- [x] Devops
-- [ ] Spark 
-- [ ] Hadoop
-- [ ] AWS , Google Cloud
+- [ ] Istio 1.0
+
 
 #### Projects:
 - [HACKNC2017](https://github.com/itzceekay/influenza_correlation)
