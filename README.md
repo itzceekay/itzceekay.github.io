@@ -6,11 +6,11 @@
 
 ### **kiru@live.unc.edu**
 
-- Currently reading " Ready player one " by Ernest Cline after "The Martian" and "1984" .
+- Currently reading " Ready player one" by Ernest Cline after "The Martian" and "1984" .
 
 ### About me : 
-Information science grad @ Univerity of North Carolina Chapel Hill . Currently working as a devops intern at Peoplenet. Worked for IBM as an Application developer for 40 months primarily in Agile and Devops environment.
-### Skills :
+Information science grad @ Univerity of North Carolina Chapel Hill . Compelted my SE internship at Peoplenet,MSP during summer. Worked for IBM as an Application developer for 40 months primarily in Agile and Devops environment.
+### Skills and Languages :
 - [x] Java
 - [x] Go Lang
 - [x] Python
@@ -18,6 +18,7 @@ Information science grad @ Univerity of North Carolina Chapel Hill . Currently w
 - [x] MySQL
 - [x] OpenShift ( Redhat cloud )
 - [ ] Istio 1.0
+- [ ] Gcloud and K8
 
 
 #### Projects:
